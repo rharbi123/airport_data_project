@@ -2,7 +2,7 @@
   "version": 1,
   "locale": "French_Morocco.1252",
   "metadata": {
-    "appmode": "python-streamlit",
+    "appmode": "python-shiny",
     "entrypoint": "app"
   },
   "python": {
