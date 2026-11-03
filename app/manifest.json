@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "locale": "French_Morocco.1252",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.13.6",
+    "package_manager": {
+      "name": "pip",
+      "version": "26.3",
+      "package_file": "requirements.txt"
+    }
+  },
+  "environment": {
+    "python": {
+      "requires": "~=3.12.0"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "e07c91672d2ee609e89777dbc9c564c5"
+    },
+    ".python-version": {
+      "checksum": "c3052f53ccf07991da5591cab5ee1274"
+    },
+    "app.py": {
+      "checksum": "d87fce12abf6eb2206fb7ada4d0df5ea"
+    },
+    "data_prep.py": {
+      "checksum": "9d505377fa22fec772c118f1a9680a6b"
+    },
+    "data_source.py": {
+      "checksum": "f0aad740130f9037aebe0fc3c0d50d59"
+    },
+    "model.py": {
+      "checksum": "4fd0458a0b42da2f5f21a68075b11b23"
+    },
+    "modules/__init__.py": {
+      "checksum": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "modules/carriers.py": {
+      "checksum": "b6c648771b3653ff46abdba65e039994"
+    },
+    "modules/map.py": {
+      "checksum": "3b7a78701007ec04c77012db21014f11"
+    },
+    "modules/mission1.py": {
+      "checksum": "5f266050a48852068ce2a74e64161eb3"
+    },
+    "modules/mission2.py": {
+      "checksum": "fc78fbc5958d2344d2963e1438786332"
+    },
+    "modules/overview.py": {
+      "checksum": "f535597c56defb00303e4500ae72be05"
+    },
+    "modules/planes.py": {
+      "checksum": "f370e2b63c4dce66fa06761287108e86"
+    },
+    "modules/predict.py": {
+      "checksum": "40f0ebf7b0344014114ac24308295fd1"
+    },
+    "modules/temporal.py": {
+      "checksum": "3d227a4f1779fa894e28883e44009192"
+    },
+    "modules/weather.py": {
+      "checksum": "639e6a146232447224e126f4723e2b68"
+    },
+    "utils.py": {
+      "checksum": "99ac159fa0584b640d28dbcbf7c22620"
+    }
+  }
+}
